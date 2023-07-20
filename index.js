@@ -3,4 +3,3 @@ const sum=(a,b)=>{
 }
 
 const sub=sum(2,2);
-console.log(sub);
